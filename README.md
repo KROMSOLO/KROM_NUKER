@@ -6,7 +6,7 @@ https://discord.gg/GA3EWEZQ33
 
 HOW TO INSTALL :
 
-- Downlaod the last realease
+- Downlaod the last release
 
 - Extrat file
 
