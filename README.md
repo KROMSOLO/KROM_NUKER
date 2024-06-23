@@ -11,3 +11,15 @@ HOW TO INSTALL :
 - Extrat file
 
 - Launch script.exe
+
+---
+
+FEATURES :
+
+- CUSTOM TOKEN
+
+- CUSTOM GUILD ID
+
+- MESSAGE IN ALL CHANNEL CREATED
+
+- & MORE
