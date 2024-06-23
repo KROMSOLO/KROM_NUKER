@@ -4,7 +4,7 @@ https://discord.gg/GA3EWEZQ33
 
 ---
 
-INSTALATION :
+HOW TO INSTALL :
 
 - Downlaod the last realease
 
