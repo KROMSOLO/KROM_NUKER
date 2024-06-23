@@ -11,5 +11,3 @@ INSTALATION :
 - Extrat file
 
 - Launch script.exe
-
----
